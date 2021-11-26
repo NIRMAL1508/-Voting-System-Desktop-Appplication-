@@ -5,4 +5,4 @@ This Voting System consist of two panels one is 1) Voters panel and 2) Admins pa
 
 # Static Application
 
-# Multiple User,Only One Admin
+# Multiple User,Only One Admin.
